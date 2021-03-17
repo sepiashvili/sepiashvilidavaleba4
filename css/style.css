@@ -1,0 +1,137 @@
+/*header styles*/
+.img1 {
+	vertical-align: middle;
+	margin : 30px 49.8px 0 30px;
+	
+}
+.logo {
+	display: inline-block;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	margin-top: 31px ;
+	margin-right : 18px;
+	display: inline-block;
+	color : #3D58A6;
+	font-size: 22px ;
+}
+.nav-a {
+	color : #EE4036;
+}
+/*home page section styles*/
+.first {
+	width: 1170px ;
+	margin: 76.9px auto;
+}
+.secc{
+	margin-bottom: 29.8px;
+
+}
+.hash {
+	color: #3D58A6;
+	margin: 11px 0 12.7px 20.8px;
+}
+.container {
+	margin-top: 179.4px;
+	width: 1170px ;
+	margin: 0 auto  ;
+}
+.left-div {
+	width: 570px;
+	display: inline-block;
+	background-color: #F2F2F2;
+	margin-bottom: 68.3px;
+
+}
+.right-div {
+	width: 570px;
+	display: inline-block;
+	background-color: #F2F2F2;
+	margin-left: 20px;
+}
+.div-img {
+	vertical-align: middle;
+	margin: 0 0 41.7px 38.8px;
+}
+.div-p{
+	display: inline-block;
+	width: 358px;
+	vertical-align: middle;
+	font-size: 20px;
+	margin-left: 60px;
+}
+/*home page footer styles*/
+.divider {
+	width: 1px;
+	height:27px;
+	background-color: #363E97; 
+	margin: 0 30.2px 0 35.6px;
+	display:inline-block;
+}
+/*news styles*/
+.date {
+	width: 52px;
+	height: 64px;
+	background-color: #3D58A6;
+	color:white;
+	margin: 35.8px 0 0 34.1px;
+	font-size: 48px;
+	padding: 8px 2px;
+}
+.date-f {
+	font-size: 22px;
+    margin-left: 32px;
+    color: #3D58A6;
+    margin-bottom: 17.5px;
+}
+.article-p{
+	margin-left: 30px;
+	font-size: 20px;
+}
+.news-img {
+	margin:17.5px 39px 0 30px;
+	vertical-align: top ;
+}
+.news-div {
+	width: 929px ;
+	display: inline-block;
+	vertical-align: top;
+}
+.news-p {
+	font-size: 16px ;
+}
+.p2 {
+	margin-top: 21px;
+}
+/*news footer styles*/
+.news-c {
+	margin: 40px 0 0 30px;
+}
+/*contact body styles*/
+.contact-block {
+	margin-top: 24.2px;
+	background-color: #E6E6E6 ;
+	width: 1366px;
+}
+.left-block {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 auto 0 auto;
+	padding: 0 63.7px 0 97.3px;
+}
+.right-block {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 auto;
+}
+.first-h {
+	color: #3D58A6;
+	margin:  auto 0 auto;
+	padding: 51.5px 0 0 97.3px;
+}
+.nav-span {
+	color: #707070;
+}
