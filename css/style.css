@@ -1,8 +1,14 @@
 .absoluturi-eng {
-
+	width: 1000px;
+	font-family: 'Redressed', cursive;
+	margin : 30px auto;
+	font-size: 30px ;
 }
 .relatiuri-eng {
-
+	width: 1000px;
+	font-family: 'Akaya Telivigala';
+	margin : 30px auto;
+	font-size: 30px ;
 }
 /*header styles*/
 .img1 {

@@ -7,3 +7,16 @@
          url('../fonts/alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+    font-family: 'Akaya Telivigala';
+    src: url('../fonts/eng-fonts/AkayaTelivigala-Regular.eot');
+    src: url('../fonts/eng-fonts/AkayaTelivigala-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/eng-fonts/AkayaTelivigala-Regular.woff2') format('woff2'),
+        url('../fonts/eng-fonts/AkayaTelivigala-Regular.woff') format('woff'),
+        url('../fonts/eng-fonts/AkayaTelivigala-Regular.ttf') format('truetype'),
+        url('../fonts/eng-fonts/AkayaTelivigala-Regular.svg#AkayaTelivigala-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
