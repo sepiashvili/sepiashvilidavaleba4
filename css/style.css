@@ -1,3 +1,9 @@
+.absoluturi-eng {
+
+}
+.relatiuri-eng {
+
+}
 /*header styles*/
 .img1 {
 	vertical-align: middle;
@@ -103,6 +109,7 @@
 }
 .news-p {
 	font-size: 16px ;
+	font-family: "BPG Classic Medium", sans-serif;
 }
 .p2 {
 	margin-top: 21px;
